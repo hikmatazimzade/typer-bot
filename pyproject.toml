@@ -1,5 +1,5 @@
 [project]
-name = "estonia-trp-notification-bot"
+name = "typer-bot"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
